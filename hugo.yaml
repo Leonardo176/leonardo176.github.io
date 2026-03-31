@@ -128,3 +128,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+# for Github Actions
+caches:
+  images:
+    dir: :cacheDir/images
