@@ -57,7 +57,7 @@ I think are important to spread and talk about.
 Some examples:
 
 - The use of AI in schools
-- What everyone forgots about AI (environmental costs, ...)
+- What everyone forgot about AI (environmental costs, ...)
 - Everything you didn't know about social media
 
 Maybe the titles are a bit clickbaiting,
@@ -67,6 +67,6 @@ Ok, I will stop spoiling the entire blog!
 
 ## Conclusion & Summary
 
-This is just a blog post where I present myself and what I will do on this blog.
+This is just a post where I present myself and what I want to do here.
 If you are interested on the content of my blog, you can subscribe to my [RSS feed](/blog/index.xml)
 to keep up to date!
